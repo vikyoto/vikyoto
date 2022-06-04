@@ -1,15 +1,28 @@
-### Hi there 👋
+<h1 align="center">Hello! 👋</h1>
 
 - 🔭 I’m currently working with datacenter applications
 - 🌱 I’m currently learning javascript
 
-<div align="center">
-  <a href="https://github.com/vikyoto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikyoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    
-  ![teste](https://github-readme-stats.vercel.app/api/top-langs/?username=vikyoto&theme=dracula)
- 
-</div>
+### Dev Stats:
+
+<details open>
+ <summary> ✇ <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=vikyoto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vikyoto&theme=tokyonight&langs_count=3">
+</p>
+</details>
+
+<details>	
+  <summary><b>⚡ Github Streaks:</b></summary>
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=vikyoto&hide_border=true" />
+</details>
+
+<details>	
+  <summary><b>🚀 Github Awards:</b></summary>
+  <img src = "https://github-profile-trophy.vercel.app/?username=vikyoto">
+</details>
   
   ##
  
